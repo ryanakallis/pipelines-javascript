@@ -1,4 +1,4 @@
-[![Build Status](https://ryankallis.visualstudio.com/pipelines-javascript/_apis/build/status/ryanakallis.pipelines-javascript?branchName=master)](https://ryankallis.visualstudio.com/pipelines-javascript/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://ryankallis.visualstudio.com/pipelines-javascript/_apis/build/status/ryanakallis.pipelines-javascript?branchName=master)](https://ryankallis.visualstudio.com/pipelines-javascript/_build/latest?definitionId=2&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
